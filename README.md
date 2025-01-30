@@ -3,7 +3,7 @@
 ## 🚀 Project Description
 Welcome to the **AI-Powered Code Debugger**! This project leverages **Artificial Intelligence** to automatically **detect** errors in your code and provide **corrected versions**. It aims to enhance the coding experience by offering quick fixes and improving code quality.
 
-The AI system uses advanced techniques to identify and correct common coding errors, such as syntax mistakes, logical issues, and runtime bugs. This tool is designed for developers who want a smarter, faster way to debug their code.
+The AI system uses advanced techniques to identify and correct coding errors, such as syntax mistakes, logical issues, and all errors. This tool is designed for developers,students who want a smarter, faster way to debug their code.
 
 
 ## ✨ Key Features
