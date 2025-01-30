@@ -1,4 +1,4 @@
-# 🎯 AI-Powered Code Debugger
+# 🎯 EduFix - AI Code Debugger.
 
 ## 🚀 Project Description
 Welcome to the **AI-Powered Code Debugger**! This project leverages **Artificial Intelligence** to automatically **detect** errors in your code and provide **corrected versions**. It aims to enhance the coding experience by offering quick fixes and improving code quality.
